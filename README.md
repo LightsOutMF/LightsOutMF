@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lights
+- 👋 Hi, I’m @Light
 - 👀 I’m interested in 3D(Art, Modeling, Texturing, Rigging)
 - 🌱 I’m currently learning 3D softwares
 - 💞️ I’m looking to collaborate on ...
